@@ -99,8 +99,10 @@ Organizer reviews
 Approve & Send
       ↓
 Gmail API
-Why Sponsor Agent
 
+
+
+Why Sponsor Agent
 Finding sponsors is usually a manual process involving:
 
 searching previous events
@@ -120,22 +122,11 @@ An email is considered usable only when the exact address is publicly verifiable
 
 Company websites, contact forms, LinkedIn pages, and partnership pages are not treated as email substitutes.
 
-Team
-
+~By
 Team Doppenheimer
-
 Built during the WeMakeDevs First Commit Hackathon.
 
-Status
 
-Hackathon MVP
-
-Sponsor discovery
-Live web research
-Verified-email filtering
-Personalized email generation
-Gmail OAuth
-Real email sending
 AWS-hosted backend
 Amplify deployment
 
