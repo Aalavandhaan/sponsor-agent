@@ -76,7 +76,13 @@ Searches for a publicly verified sponsorship-relevant professional email for a c
 A sponsor is considered outreach-ready only when:
 
 ```json
-{Outreach Flow
+{
+  "email_found": true,
+  "email_ready": true
+}
+
+Outreach Flow
+
 Event details
       ↓
 Discover sponsor candidates
@@ -135,6 +141,6 @@ AWS-hosted backend
 Amplify deployment
 
 Made by Team Doppenheimer 💜
-  "email_found": true,
+  
   "email_ready": true
 }
