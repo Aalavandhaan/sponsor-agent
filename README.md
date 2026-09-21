@@ -8,7 +8,7 @@ Built for the WeMakeDevs First Commit Hackathon using AWS.
 
 Sponsor Agent turns event details into verified sponsorship outreach.
 
-##Key Features
+--Key Features
 
 - AI-powered sponsor discovery based on event requirements
 - Professional email verification before outreach
