@@ -138,6 +138,6 @@ The unique combination of live web grounding and strict verification eliminates 
 Ultimately, this platform empowers organizers to scale their outreach effortlessly, securing higher-tier sponsorships in a fraction of the time.
 
 View our project: https://main.d22t4r50t07nj0.amplifyapp.com/
-~By
-Team Doppenheimer
+
+~By Team Doppenheimer
 Built during the WeMakeDevs First Commit Hackathon.
