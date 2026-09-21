@@ -132,11 +132,3 @@ Company websites, contact forms, LinkedIn pages, and partnership pages are not t
 ~By
 Team Doppenheimer
 Built during the WeMakeDevs First Commit Hackathon.
-
-
-AWS-hosted backend
-Amplify deployment
-
-Made by Team Doppenheimer 💜
-  "email_ready": true
-}
